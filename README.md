@@ -43,6 +43,21 @@
   <i>Always learning. Always building. 🚀</i>
 </p>
 
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=almkhlafyomar&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almkhlafyomar&layout=compact&theme=merko&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
+</p>
+
+---
+
 
 <!--
 **almkhlafyomar/almkhlafyomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
