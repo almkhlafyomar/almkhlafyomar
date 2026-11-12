@@ -45,18 +45,30 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+
+---
+
+<h2 align="center">🚀 What I'm Working On</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almkhlafyomar&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almkhlafyomar&layout=compact&theme=merko&hide_border=true" height="165"/>
+  Learning new technologies, improving my coding skills,
+  and building real-world projects.
+</p>
+
+<h2 align="center">💻 My Developer Journey</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Software_Development-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OS-Linux-00C853?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <i>Code. Learn. Build. Repeat. 🟢</i>
 </p>
 
 ---
+
 
 
 <!--
